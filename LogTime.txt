@@ -1,0 +1,7 @@
+2023-05-10: Khởi tạo project + tạo service module Account
+2023-05-26: Migration Account Database
+2023-05-30: Add api "Authenticate" with your email
+2023-06-06: Add api "Register" with your email
+2023-06-11: Build roles service 
+2023-06-14: Add api Create/Update/Delete roles
+            Add UserRole service & api add user to roles
